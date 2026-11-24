@@ -1,12 +1,9 @@
 # Demo Automio · IBOR Valves
 
-Demo de seguimiento de proveedores preparada por Automio para IBOR Valves.
+Demo de compras para IBOR Valves: comparación de confirmaciones de proveedores (fecha, cantidad, material) con el pedido, control de certificados EN 10204 3.1 y borradores de mensaje que se aprueban antes de enviarse.
 
-Todos los datos que aparecen (pedidos, proveedores, fechas, correos y cifras) son ficticios y solo sirven para ver la idea. La demo no está conectada a ningún sistema real de la empresa.
+Todos los datos (proveedores, pedidos, coladas, fechas y cifras) son ficticios. La demo no está conectada a ningún sistema real de la empresa y no envía nada.
 
-## Ver la demo
+Ver la demo: https://routinizewellness.github.io/automio-iborvalves-demo/
 
-Abrir `index.html` en cualquier navegador, o visitar:
-https://routinizewellness.github.io/automio-iborvalves-demo/
-
-— Automio · noviembre de 2026
+Automio · noviembre de 2026
